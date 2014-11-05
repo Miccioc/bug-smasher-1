@@ -47,7 +47,7 @@ namespace InsectGenerator
             frameHeight = initialFrame.Height;
 
             this.origin = new Vector2(frameWidth / 2, frameHeight / 2);
-
+      
             tag = null;
 
         }
@@ -178,7 +178,7 @@ namespace InsectGenerator
                 Texture,
                 Center,
                 Source,
-                tintColor,
+                tintColor = Colnum,
                 rotation,
                 origin,
                 1.0f,

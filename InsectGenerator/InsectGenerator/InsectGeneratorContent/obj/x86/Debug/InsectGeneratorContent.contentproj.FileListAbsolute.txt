@@ -1,1 +1,2 @@
 C:\Users\eahscs\Documents\GitHub\bug-smasher\InsectGenerator\InsectGenerator\InsectGeneratorContent\obj\x86\Debug\InsectGeneratorContent.contentprojResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\bug-smasher-1\InsectGenerator\InsectGenerator\InsectGeneratorContent\obj\x86\Debug\InsectGeneratorContent.contentprojResolveAssemblyReference.cache

@@ -21,7 +21,7 @@ namespace InsectGenerator
         List<Sprite> bugs = new List<Sprite>();
 
 
-        int bugNum = 100;
+        int bugNum = 5;
 
         public Game1()
         {
@@ -35,20 +35,22 @@ namespace InsectGenerator
         }
 
         
+
         protected override void Initialize()
         {
-            
 
+            this.IsMouseVisible = true;
             base.Initialize();
         }
 
 
         protected override void LoadContent()
         {
-
             background = Content.Load<Texture2D>("background");
             spritesheet = Content.Load<Texture2D>("spritesheet");
             spriteBatch = new SpriteBatch(GraphicsDevice);
+
+            //Sprite bug = new Sprite(new Vector2 (rand.Next(137,198);
 
             for (int i = 0; i < bugNum; i++)
             {
@@ -89,7 +91,7 @@ namespace InsectGenerator
             
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
                 this.Exit();
-
+           
             moveBugs();
 
             for (int i = 0; i < bugs.Count; i++)
@@ -105,9 +107,10 @@ namespace InsectGenerator
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
+
             spriteBatch.Begin();
 
-
+            spriteBatch.Draw(background, new Rectangle(0, 0, this.Window.ClientBounds.Width, this.Window.ClientBounds.Height), Color.White);
             for (int i = 0; i < bugs.Count; i++)
             {
                 bugs[i].Draw(spriteBatch);

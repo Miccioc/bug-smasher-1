@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\eahscs\Documents\GitHub\bug-smasher\InsectGenerator\InsectGenerator\InsectGenerator\bin\x86\Debug\Content\background.xnb</Output>
-      <Time>2014-11-03T08:00:21.049-05:00</Time>
+      <Output>C:\Users\eahscs\Documents\GitHub\bug-smasher-1\InsectGenerator\InsectGenerator\InsectGenerator\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2014-11-05T07:54:21.0994-05:00</Time>
     </Item>
     <Item>
       <Source>spritesheet.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\eahscs\Documents\GitHub\bug-smasher\InsectGenerator\InsectGenerator\InsectGenerator\bin\x86\Debug\Content\spritesheet.xnb</Output>
-      <Time>2014-11-03T08:12:51.028-05:00</Time>
+      <Output>C:\Users\eahscs\Documents\GitHub\bug-smasher-1\InsectGenerator\InsectGenerator\InsectGenerator\bin\x86\Debug\Content\spritesheet.xnb</Output>
+      <Time>2014-11-05T07:54:21.1384-05:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -25,10 +25,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\eahscs\Documents\GitHub\bug-smasher\InsectGenerator\InsectGenerator\InsectGeneratorContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\eahscs\Documents\GitHub\bug-smasher\InsectGenerator\InsectGenerator\InsectGenerator\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\eahscs\Documents\GitHub\bug-smasher\InsectGenerator\InsectGenerator\InsectGeneratorContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\eahscs\Documents\GitHub\bug-smasher\InsectGenerator\InsectGenerator\InsectGenerator\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\eahscs\Documents\GitHub\bug-smasher-1\InsectGenerator\InsectGenerator\InsectGeneratorContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\eahscs\Documents\GitHub\bug-smasher-1\InsectGenerator\InsectGenerator\InsectGenerator\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\eahscs\Documents\GitHub\bug-smasher-1\InsectGenerator\InsectGenerator\InsectGeneratorContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\eahscs\Documents\GitHub\bug-smasher-1\InsectGenerator\InsectGenerator\InsectGenerator\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
